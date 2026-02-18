@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://menifeeplumbingco.com/sitemap.xml
